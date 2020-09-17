@@ -5,3 +5,4 @@ now we see
 what happens nowoo
 integrating now 4 attempt
 now testing parallel builds attempt 3
+testing multibranch pipeline attempt 1
